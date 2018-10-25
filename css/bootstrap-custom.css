@@ -76,8 +76,9 @@ header{
 	cursor:pointer;
 }
 .navbar-light .navbar-brand {
-	color:#363636;		
+	color:#fff;		
 	height: auto;
+	text-transform: uppercase;
 }
 .navbar-light .navbar-brand:hover {
  	color:#1F81BF;
